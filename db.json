@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "users": [
+        {
+          "id": 1,
+          "name": "abdelbari",
+          "email": "abdelbari@company.com"
+        },
+        {
+          "id": 2,
+          "name": "abderrahim",
+          "email": "abderrahim@company.com"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "abdelbari",
+      "email": "abdelbari@company.com"
+    },
+    {
+      "id": 2,
+      "name": "abderrahim",
+      "email": "abderrahim@company.com"
+    }
+  ]
+}
